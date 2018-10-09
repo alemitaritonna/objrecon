@@ -1,1 +1,1 @@
-# FingerReader-BadFraming
+# Proyecto Reconocimiento de Objeto utilizando OpenCV y ORB
